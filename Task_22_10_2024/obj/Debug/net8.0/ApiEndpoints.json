@@ -1,0 +1,70 @@
+[
+  {
+    "ContainingType": "Task_22_10_2024.Controllers.CorsoController",
+    "Method": "VisualizzaCorso",
+    "RelativePath": "api/Corsi/{VarCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "VarCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Task_22_10_2024.Models.CorsoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Task_22_10_2024.Controllers.UtenteController",
+    "Method": "InserisciUtente",
+    "RelativePath": "api/Utente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "utente",
+        "Type": "Task_22_10_2024.Models.UtenteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_22_10_2024.Controllers.UtenteController",
+    "Method": "VisualizzaUtente",
+    "RelativePath": "api/Utente/{VarCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "VarCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "Task_22_10_2024.Models.UtenteDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
