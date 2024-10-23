@@ -1,6 +1,79 @@
 [
   {
     "ContainingType": "Task_22_10_2024.Controllers.CorsoController",
+    "Method": "ListaPacchetti",
+    "RelativePath": "api/Corsi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Task_22_10_2024.Models.CorsoDTO, Task_22_10_2024, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Task_22_10_2024.Controllers.CorsoController",
+    "Method": "InserimentoCorso",
+    "RelativePath": "api/Corsi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "obj",
+        "Type": "Task_22_10_2024.Models.CorsoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_22_10_2024.Controllers.CorsoController",
+    "Method": "EliminaCorso",
+    "RelativePath": "api/Corsi",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_22_10_2024.Controllers.CorsoController",
+    "Method": "AggiornaCorso",
+    "RelativePath": "api/Corsi/{varCodice}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "corDto",
+        "Type": "Task_22_10_2024.Models.CorsoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_22_10_2024.Controllers.CorsoController",
     "Method": "VisualizzaCorso",
     "RelativePath": "api/Corsi/{VarCodice}",
     "HttpMethod": "GET",
@@ -27,6 +100,26 @@
   },
   {
     "ContainingType": "Task_22_10_2024.Controllers.UtenteController",
+    "Method": "ListaPacchetti",
+    "RelativePath": "api/Utente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Task_22_10_2024.Models.UtenteDTO, Task_22_10_2024, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Task_22_10_2024.Controllers.UtenteController",
     "Method": "InserisciUtente",
     "RelativePath": "api/Utente",
     "HttpMethod": "POST",
@@ -35,6 +128,43 @@
     "Parameters": [
       {
         "Name": "utente",
+        "Type": "Task_22_10_2024.Models.UtenteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_22_10_2024.Controllers.UtenteController",
+    "Method": "EliminaUtente",
+    "RelativePath": "api/Utente",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Task_22_10_2024.Controllers.UtenteController",
+    "Method": "AgiornaUtente",
+    "RelativePath": "api/Utente/{varCodice}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "utDto",
         "Type": "Task_22_10_2024.Models.UtenteDTO",
         "IsRequired": true
       }

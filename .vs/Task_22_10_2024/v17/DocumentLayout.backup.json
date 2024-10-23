@@ -1,110 +1,106 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\",
+  "WorkspaceRootPath": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\controllers\\utentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\controllers\\utentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\services\\utenteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\services\\utenteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\repos\\utenterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\repos\\utenterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\models\\iscrizionedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\models\\iscrizionedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\controllers\\corsocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\controllers\\corsocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\models\\corso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\models\\corso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\models\\corsodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\models\\corsodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\services\\corsoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\services\\corsoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\repos\\corsorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\repos\\corsorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\controllers\\iscrizionecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\controllers\\iscrizionecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\models\\iscrizione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\models\\iscrizione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\task_22_10_2024.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\task_22_10_2024.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\context\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\context\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\repos\\irepolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\repos\\irepolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\services\\iscrizioneservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\services\\iscrizioneservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\models\\utentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\models\\utentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\models\\utentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\services\\iservicelettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\controllers\\utentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\controllers\\utentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\services\\utenteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\services\\utenteservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\task_22_10_2024.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\task_22_10_2024.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\services\\corsoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\services\\corsoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\controllers\\corsocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\controllers\\corsocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\repos\\utenterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\repos\\utenterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\models\\iscrizionedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\models\\iscrizionedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\models\\corso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\models\\corso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\models\\corsodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\models\\corsodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\repos\\corsorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\repos\\corsorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\controllers\\iscrizionecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\controllers\\iscrizionecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\models\\iscrizione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\models\\iscrizione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\context\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\context\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\repos\\irepolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\repos\\irepolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\services\\iscrizioneservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\services\\iscrizioneservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\services\\iservicelettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\services\\iservicelettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\filename.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\filename.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
       "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\filename.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\services\\iservicescrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\services\\iservicescrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\services\\iservicescrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\repos\\iscrizionerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\repos\\iscrizionerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\repos\\iscrizionerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\repos\\ireposcrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\desktop\\task22_10_2024\\task_22_10_2024\\task_22_10_2024\\repos\\ireposcrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\repos\\ireposcrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|c:\\users\\utente\\source\\repos\\task_22_10_2024\\task_22_10_2024\\filename.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{C72DE233-E8D5-45A3-9FCD-1555FAA3396B}|Task_22_10_2024\\Task_22_10_2024.csproj|solutionrelative:task_22_10_2024\\filename.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,56 +110,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Task_22_10_2024.http",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Task_22_10_2024.http",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\Task_22_10_2024.http",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Task_22_10_2024.http",
-              "RelativeToolTip": "Task_22_10_2024\\Task_22_10_2024.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-10-22T12:32:03.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CorsoServices.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Services\\CorsoServices.cs",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\Services\\CorsoServices.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Services\\CorsoServices.cs",
-              "RelativeToolTip": "Task_22_10_2024\\Services\\CorsoServices.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowDsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T10:20:51.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IscrizioneServices.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Services\\IscrizioneServices.cs",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\Services\\IscrizioneServices.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Services\\IscrizioneServices.cs",
-              "RelativeToolTip": "Task_22_10_2024\\Services\\IscrizioneServices.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T10:20:40.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UtenteServices.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Services\\UtenteServices.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Services\\UtenteServices.cs",
               "RelativeDocumentMoniker": "Task_22_10_2024\\Services\\UtenteServices.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Services\\UtenteServices.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Services\\UtenteServices.cs",
               "RelativeToolTip": "Task_22_10_2024\\Services\\UtenteServices.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAtwCcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwDcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T10:20:29.401Z",
               "EditorCaption": ""
@@ -172,230 +129,72 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "IServiceScrittura.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Services\\IServiceScrittura.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Services\\IServiceScrittura.cs",
               "RelativeDocumentMoniker": "Task_22_10_2024\\Services\\IServiceScrittura.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Services\\IServiceScrittura.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Services\\IServiceScrittura.cs",
               "RelativeToolTip": "Task_22_10_2024\\Services\\IServiceScrittura.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T10:15:33.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T10:15:33.223Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "IserviceLettura.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Services\\IserviceLettura.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Services\\IserviceLettura.cs",
               "RelativeDocumentMoniker": "Task_22_10_2024\\Services\\IserviceLettura.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Services\\IserviceLettura.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Services\\IserviceLettura.cs",
               "RelativeToolTip": "Task_22_10_2024\\Services\\IserviceLettura.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T10:15:02.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T10:15:02.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "CorsoController.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Controllers\\CorsoController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Controllers\\CorsoController.cs",
               "RelativeDocumentMoniker": "Task_22_10_2024\\Controllers\\CorsoController.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Controllers\\CorsoController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Controllers\\CorsoController.cs",
               "RelativeToolTip": "Task_22_10_2024\\Controllers\\CorsoController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T10:10:38.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IscrizioneController.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Controllers\\IscrizioneController.cs",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\Controllers\\IscrizioneController.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Controllers\\IscrizioneController.cs",
-              "RelativeToolTip": "Task_22_10_2024\\Controllers\\IscrizioneController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T10:10:00.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UtenteController.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Controllers\\UtenteController.cs",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\Controllers\\UtenteController.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Controllers\\UtenteController.cs*",
-              "RelativeToolTip": "Task_22_10_2024\\Controllers\\UtenteController.cs*",
-              "ViewState": "AgIAAB8AAAAAAAAAAIAwwCMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T10:09:47.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IscrizioneREPO.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Repos\\IscrizioneREPO.cs",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\Repos\\IscrizioneREPO.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Repos\\IscrizioneREPO.cs",
-              "RelativeToolTip": "Task_22_10_2024\\Repos\\IscrizioneREPO.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwD4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T08:29:32.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CorsoREPO.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Repos\\CorsoREPO.cs",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\Repos\\CorsoREPO.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Repos\\CorsoREPO.cs",
-              "RelativeToolTip": "Task_22_10_2024\\Repos\\CorsoREPO.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwGUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T08:29:19.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UtenteREPO.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Repos\\UtenteREPO.cs",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\Repos\\UtenteREPO.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Repos\\UtenteREPO.cs",
-              "RelativeToolTip": "Task_22_10_2024\\Repos\\UtenteREPO.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T08:29:00.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IRepoScrittura.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Repos\\IRepoScrittura.cs",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\Repos\\IRepoScrittura.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Repos\\IRepoScrittura.cs",
-              "RelativeToolTip": "Task_22_10_2024\\Repos\\IRepoScrittura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T08:25:43.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IRepoLettura.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Repos\\IRepoLettura.cs",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\Repos\\IRepoLettura.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Repos\\IRepoLettura.cs",
-              "RelativeToolTip": "Task_22_10_2024\\Repos\\IRepoLettura.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T08:25:18.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\appsettings.Development.json",
-              "RelativeToolTip": "Task_22_10_2024\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T08:24:21.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Program.cs",
               "RelativeDocumentMoniker": "Task_22_10_2024\\Program.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Program.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Program.cs",
               "RelativeToolTip": "Task_22_10_2024\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwC4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T08:15:58.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Iscrizione.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Models\\Iscrizione.cs",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\Models\\Iscrizione.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Models\\Iscrizione.cs",
-              "RelativeToolTip": "Task_22_10_2024\\Models\\Iscrizione.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T08:04:47.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\appsettings.json",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\appsettings.json",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\appsettings.json",
-              "RelativeToolTip": "Task_22_10_2024\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-22T08:15:52.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "taskContext.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Context\\taskContext.cs",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\Context\\taskContext.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Context\\taskContext.cs",
-              "RelativeToolTip": "Task_22_10_2024\\Context\\taskContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T08:10:55.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IscrizioneDTO.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Models\\IscrizioneDTO.cs",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\Models\\IscrizioneDTO.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Models\\IscrizioneDTO.cs",
-              "RelativeToolTip": "Task_22_10_2024\\Models\\IscrizioneDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Models\\Utente.cs",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\Models\\Utente.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Models\\Utente.cs",
+              "RelativeToolTip": "Task_22_10_2024\\Models\\Utente.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T08:09:28.422Z",
+              "WhenOpened": "2024-10-22T08:01:26.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CorsoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Models\\CorsoDTO.cs",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\Models\\CorsoDTO.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Models\\CorsoDTO.cs",
-              "RelativeToolTip": "Task_22_10_2024\\Models\\CorsoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T08:08:57.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 0,
               "Title": "UtenteDTO.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Models\\UtenteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Models\\UtenteDTO.cs",
               "RelativeDocumentMoniker": "Task_22_10_2024\\Models\\UtenteDTO.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Models\\UtenteDTO.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Models\\UtenteDTO.cs",
               "RelativeToolTip": "Task_22_10_2024\\Models\\UtenteDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -404,41 +203,221 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Corso.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Models\\Corso.cs",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\Models\\Corso.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Models\\Corso.cs",
-              "RelativeToolTip": "Task_22_10_2024\\Models\\Corso.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "UtenteController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Controllers\\UtenteController.cs",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\Controllers\\UtenteController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Controllers\\UtenteController.cs",
+              "RelativeToolTip": "Task_22_10_2024\\Controllers\\UtenteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T07:54:39.643Z",
+              "WhenOpened": "2024-10-22T10:09:47.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FileName.sql ",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\FileName.sql",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\FileName.sql",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\FileName.sql",
-              "RelativeToolTip": "Task_22_10_2024\\FileName.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-22T07:59:26.692Z",
+              "DocumentIndex": 6,
+              "Title": "CorsoServices.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Services\\CorsoServices.cs",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\Services\\CorsoServices.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Services\\CorsoServices.cs",
+              "RelativeToolTip": "Task_22_10_2024\\Services\\CorsoServices.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwDoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:20:51.219Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Task_22_10_2024.http",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Task_22_10_2024.http",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\Task_22_10_2024.http",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Task_22_10_2024.http",
+              "RelativeToolTip": "Task_22_10_2024\\Task_22_10_2024.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-22T12:32:03.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IscrizioneServices.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Services\\IscrizioneServices.cs",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\Services\\IscrizioneServices.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Services\\IscrizioneServices.cs",
+              "RelativeToolTip": "Task_22_10_2024\\Services\\IscrizioneServices.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:20:40.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IscrizioneController.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Controllers\\IscrizioneController.cs",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\Controllers\\IscrizioneController.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Controllers\\IscrizioneController.cs",
+              "RelativeToolTip": "Task_22_10_2024\\Controllers\\IscrizioneController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:10:00.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IscrizioneREPO.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Repos\\IscrizioneREPO.cs",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\Repos\\IscrizioneREPO.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Repos\\IscrizioneREPO.cs",
+              "RelativeToolTip": "Task_22_10_2024\\Repos\\IscrizioneREPO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwD4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:29:32.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CorsoREPO.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Repos\\CorsoREPO.cs",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\Repos\\CorsoREPO.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Repos\\CorsoREPO.cs",
+              "RelativeToolTip": "Task_22_10_2024\\Repos\\CorsoREPO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:29:19.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UtenteREPO.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Repos\\UtenteREPO.cs",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\Repos\\UtenteREPO.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Repos\\UtenteREPO.cs",
+              "RelativeToolTip": "Task_22_10_2024\\Repos\\UtenteREPO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:29:00.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRepoScrittura.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Repos\\IRepoScrittura.cs",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\Repos\\IRepoScrittura.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Repos\\IRepoScrittura.cs",
+              "RelativeToolTip": "Task_22_10_2024\\Repos\\IRepoScrittura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:25:43.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IRepoLettura.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Repos\\IRepoLettura.cs",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\Repos\\IRepoLettura.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Repos\\IRepoLettura.cs",
+              "RelativeToolTip": "Task_22_10_2024\\Repos\\IRepoLettura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:25:18.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\appsettings.Development.json",
+              "RelativeToolTip": "Task_22_10_2024\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T08:24:21.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Iscrizione.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Models\\Iscrizione.cs",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\Models\\Iscrizione.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Models\\Iscrizione.cs",
+              "RelativeToolTip": "Task_22_10_2024\\Models\\Iscrizione.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:04:47.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\appsettings.json",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\appsettings.json",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\appsettings.json",
+              "RelativeToolTip": "Task_22_10_2024\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T08:15:52.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "taskContext.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Context\\taskContext.cs",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\Context\\taskContext.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Context\\taskContext.cs",
+              "RelativeToolTip": "Task_22_10_2024\\Context\\taskContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:10:55.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IscrizioneDTO.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Models\\IscrizioneDTO.cs",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\Models\\IscrizioneDTO.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Models\\IscrizioneDTO.cs",
+              "RelativeToolTip": "Task_22_10_2024\\Models\\IscrizioneDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:09:28.422Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Utente.cs",
-              "DocumentMoniker": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Models\\Utente.cs",
-              "RelativeDocumentMoniker": "Task_22_10_2024\\Models\\Utente.cs",
-              "ToolTip": "C:\\Users\\utente\\source\\repos\\Task_22_10_2024\\Task_22_10_2024\\Models\\Utente.cs",
-              "RelativeToolTip": "Task_22_10_2024\\Models\\Utente.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "CorsoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Models\\CorsoDTO.cs",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\Models\\CorsoDTO.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Models\\CorsoDTO.cs",
+              "RelativeToolTip": "Task_22_10_2024\\Models\\CorsoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T08:01:26.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T08:08:57.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Corso.cs",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Models\\Corso.cs",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\Models\\Corso.cs",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\Models\\Corso.cs",
+              "RelativeToolTip": "Task_22_10_2024\\Models\\Corso.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:54:39.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FileName.sql",
+              "DocumentMoniker": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\FileName.sql",
+              "RelativeDocumentMoniker": "Task_22_10_2024\\FileName.sql",
+              "ToolTip": "C:\\Users\\utente\\Desktop\\task22_10_2024\\Task_22_10_2024\\Task_22_10_2024\\FileName.sql",
+              "RelativeToolTip": "Task_22_10_2024\\FileName.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-22T07:59:26.692Z"
             }
           ]
         }

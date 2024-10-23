@@ -33,6 +33,15 @@ namespace Task_22_10_2024.Controllers
 
         }
 
+        [HttpGet]
+        public ActionResult<IEnumerable<UtenteDTO>> ListaPacchetti()
+        {
+            return Ok(_services.CercaTutti());
+        }
+
+
+
+
         [HttpPost]
 
         public IActionResult InserisciUtente(UtenteDTO utente) {
@@ -50,7 +59,33 @@ namespace Task_22_10_2024.Controllers
             
         }
 
-        
+        [HttpPut("{varCodice}")]
+        public IActionResult AgiornaUtente(string varCodice,UtenteDTO utDto)
+        {
+            if(string.IsNullOrWhiteSpace(varCodice)||
+                    string.IsNullOrWhiteSpace(utDto.Nom) ||
+                    string.IsNullOrWhiteSpace(utDto.Cog))
+                    return BadRequest();
+            utDto.Cod = varCodice;  
+
+            if(_services.Aggiorna(utDto))
+                return Ok();
+            return BadRequest();        
+        }
+
+
+        [HttpDelete]
+        public IActionResult EliminaUtente(string varCodice)
+        {
+            if (string.IsNullOrWhiteSpace(varCodice))
+                return BadRequest();
+
+            if (_services.Elimina(varCodice))
+                return Ok();
+
+            return BadRequest();
+        }
+
 
     }
 }

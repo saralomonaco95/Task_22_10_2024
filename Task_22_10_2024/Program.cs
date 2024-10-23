@@ -54,6 +54,8 @@ namespace Task_22_10_2024
 
             app.MapControllers();
 
+            app.UseCors(builder => builder.WithOrigins("*").AllowAnyMethod().AllowAnyHeader());
+
             app.Run();
         }
     }
